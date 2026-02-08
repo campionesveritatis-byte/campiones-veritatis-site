@@ -1,0 +1,79 @@
+index.html <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Campiones Veritatis</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main class="gateway">
+
+    <section class="hero">
+      <h1>Truth requires structure.</h1>
+    </section>
+
+    <section class="card">
+      <h2>Campiones Veritatis</h2>
+      <p class="sub">
+        A discipline-led initiative focused on truth, lawful empowerment, and clarity under pressure.
+      </p>
+
+      <ul>
+        <li>Truth over noise</li>
+        <li>Discipline over reaction</li>
+        <li>Lawful process over chaos</li>
+      </ul>
+
+      <p>
+        Campiones Veritatis exists to affirm that truth is not asserted — it is demonstrated.
+        Through structure, discipline, and lawful process, clarity becomes unavoidable.
+      </p>
+    </section>
+
+    <div class="divider">
+      <span>Operational services</span>
+      <hr />
+    </div>
+
+    <section class="card strong">
+      <h2>Lex Negata Ltd</h2>
+      <p class="sub">
+        Independent case documentation &amp; decision-readiness support.
+      </p>
+
+      <p>
+        Lex Negata turns complex disputes, complaints, and reviews into decision-ready records.
+        <br><br>
+        <strong>We do not argue cases.</strong><br>
+        <strong>We make them intelligible.</strong>
+      </p>
+
+      <ul>
+        <li>Chronologies</li>
+        <li>Evidence structuring</li>
+        <li>Decision-ready bundles</li>
+      </ul>
+
+      <p class="footnote">
+        Documentation support only · No legal advice · No representation
+      </p>
+
+      <a class="button" href="YOUR_GOOGLE_FORM_LINK" target="_blank">
+        Begin documentation intake
+      </a>
+
+      <p class="mini">Discreet · Task-based · UK</p>
+    </section>
+
+    <footer>
+      <p>Structure precedes justice.</p>
+    </footer>
+
+  </main>
+
+</body>
+</html>
+
+styles.css
